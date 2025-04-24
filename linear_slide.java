@@ -17,6 +17,7 @@ public class GobildaLinearSlides {
     verticalRightSlide.toPosition();
     verticalRightSlide.setPower(1);
  }
+    
 }
  
  
